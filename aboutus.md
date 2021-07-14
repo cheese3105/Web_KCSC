@@ -11,11 +11,11 @@ Tìm hiểu An toàn thông tin không còn khó khi đã có KCSC.
 
 Với sự hỗ trợ của:  
 
-* Các [cựu sinh viên](https://kcsc-club.github.io/team-members/) có kinh nghiệm dày dặn trong ngành của Học viện  
+* Các [cựu sinh viên](https://kcsc-club.github.io/team-members/#former) có kinh nghiệm dày dặn trong ngành của Học viện  
 
-* Các thành viên trong [Đội CTF](https://kcsc-club.github.io/team-members/) của CLB 
+* Các thành viên trong [Đội CTF](https://kcsc-club.github.io/team-members/#ctfer) của CLB 
 
-* Các thành viên trong [Ban truyền thông](https://kcsc-club.github.io/team-members/) của CLB  
+* Các thành viên trong [Ban truyền thông](https://kcsc-club.github.io/team-members/#media) của CLB  
 
 KCSC mong muốn là môi trường học tập, vui chơi tốt nhất dành cho các bạn sinh viên của Học viện  
 
