@@ -59,7 +59,7 @@ Tất cả các thành viên trong CLB đều được phân cấp bậc rõ rà
 
 Đây là cấp độ mà các bạn sẽ đạt được nhờ điểm thành tích khi tham gia các giải CTF, viết các bài nghiên cứu, tham gia các bài kiểm tra cấp độ,... Ở cấp độ này thì các bạn sẽ được kèm cặp bởi một thành viên cấp 3, đồng thời phải kèm cặp cho các bạn thành viên cấp độ 1. Đây là cấp độ mà thành viên không những được rèn luyện về kỹ năng, kiến thức mà còn được rèn luyện tinh thần trách nhiệm.
 
->### ***"Học được là một chuyện, hướng dẫn được hay không lại là một chuyện khác"***  
+> *"Học được là một chuyện, hướng dẫn được cho người khác hiểu lại là một chuyện khác"* - ***ABC*** *(sinh viên khóa XYZ)*  
 
 **Thành viên cấp độ 3**
 
