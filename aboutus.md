@@ -49,21 +49,39 @@ Mọi thông tin chi tiết về buổi ứng tuyển sẽ được đăng tải
 
 Tất cả các thành viên trong CLB đều được phân cấp bậc rõ ràng, trong đó có 3 cấp độ chính:  
 
-**Thành viên cấp độ 1**  
+### **Thành viên cấp độ 1**  
 
-Đây là cấp độ dành cho các bạn đã vượt qua bài bài kiểm tra đầu vào của CLB và đang trong giai đoạn luyện tập cũng như nhận được sự hỗ trợ, kèm cặp bởi một thành viên cấp độ 2. Các bạn thành viên ở cấp độ này sẽ luôn được quan tâm, theo dõi, chú ý bởi tất cả các thành viên trong CLB với mong muốn giúp các bạn có một nền tảng kiến thức vững chắc nhất. 
+Đây là cấp độ dành cho các bạn đã vượt qua bài bài kiểm tra đầu vào của CLB và đang trong giai đoạn luyện tập cũng như nhận được sự hỗ trợ, kèm cặp từ mentor (người hướng dẫn) là một thành viên cấp độ 2.  
+
+**Mục tiêu:**
+* Hoàn thành các task (bài tập) được giao mức độ cơ bản khoảng 75%, nhằm đào tạo cho các bạn các kiến thức cơ bản của mảng CTF mà các bạn đang theo
+* Tham gia các giải CTF trên ctftime với mức độ giải dành cho highschool 
+
+Các bạn thành viên ở cấp độ này sẽ luôn được quan tâm, theo dõi bởi tất cả các thành viên trong CLB với mong muốn giúp các bạn có một nền tảng kiến thức vững chắc nhất.
 
 > *"Có người hướng dẫn kèm cặp thì quá trình học đỡ vất vả hơn rất nhiều. Không còn phải mông lung nên bắt đầu từ cái gì trước, được giải thích cặn kẽ các vấn đề mình còn lấn cấn. Được giao task (bài tập) rõ ràng đi kèm với deadline (thời hạn nộp bài), dựa vào đó thì mình sẽ tự giác cao hơn tránh để bản thân lười biếng"* - ***Nguyễn Khánh Ly*** *(sinh viên khóa AT17)*
 
-**Thành viên cấp độ 2**  
+### **Thành viên cấp độ 2**  
 
-Đây là cấp độ mà các bạn sẽ đạt được nhờ điểm thành tích khi tham gia các giải CTF, viết các bài nghiên cứu, tham gia các bài kiểm tra cấp độ,... Ở cấp độ này thì các bạn sẽ được kèm cặp bởi một thành viên cấp 3, đồng thời phải kèm cặp cho các bạn thành viên cấp độ 1. Đây là cấp độ mà thành viên không những được rèn luyện về kỹ năng, kiến thức mà còn được rèn luyện tinh thần trách nhiệm.
+Sau khi hoàn thành mục tiêu ở cấp độ 1 và thông qua bài kiểm tra cấp độ thì các bạn sẽ được thăng lên cấp độ 2.  
+
+**Mục tiêu:**
+* Hoàn thành các task được giao với mức độ cơ bản nằm ở 25% còn lại
+* Bắt đầu tham gia các giải CTF trên ctftime với mức độ giải từ medium trở lên 
+
+Lúc này, các bạn sẽ được kèm cặp bởi một thành viên cấp 3, đồng thời phải kèm cặp cho các bạn thành viên cấp độ 1. Đây là cấp độ mà thành viên không những được rèn luyện về kỹ năng, kiến thức mà còn được rèn luyện tinh thần trách nhiệm.
 
 > *"Học được là một chuyện, hướng dẫn được cho người khác hiểu lại là một chuyện khác"* - ***ABC*** *(sinh viên khóa XYZ)*  
 
-**Thành viên cấp độ 3**
+### **Thành viên cấp độ 3**
 
-Cách thăng cấp thì giống như cấp độ 2 =)) Ở cấp độ này thì bạn sẽ có nhiệm vụ kèm cặp các thành viên cấp độ 2 và sẽ phải rèn luyện sự tự giác, ý thức của bản thân vì lúc này sẽ không còn một người hướng dẫn nào có thể giúp đỡ bạn được nữa. Kiến thức ở cấp độ này sẽ phải do chính các bạn tự tìm tòi, tìm hiểu, nghiên cứu thông qua việc tham gia các giải CTF nên tinh thần tự giác học hỏi ở cấp độ này là vô cùng quan trọng.  
+Sau khi hoàn thành mục tiêu ở cấp độ 2 và thông qua bài kiểm tra cấp độ thì các bạn sẽ được thăng lên cấp độ 3.  
+
+**Mục tiêu:**
+* Tự nghiên cứu
+* Thuyết trình các nghiên cứu cá nhân của mình trước các thành viên của CLB mỗi 20 ngày
+
+Ngoài ra thì bạn còn có nhiệm vụ kèm cặp các thành viên cấp độ 2, viết đề kiểm tra hàng tháng cho các thành viên cấp độ 1. Đây là lúc mà các bạn sẽ phải rèn luyện sự tự giác, ý thức của bản thân vì lúc này sẽ không còn người hướng dẫn nữa. Kiến thức ở cấp độ này sẽ phải do chính các bạn tự tìm tòi, tìm hiểu, nghiên cứu thông qua việc tham gia các giải CTF nên tinh thần tự giác học hỏi ở cấp độ này là vô cùng quan trọng.  
 
 >### ""  
  
@@ -83,6 +101,8 @@ Cách thăng cấp thì giống như cấp độ 2 =)) Ở cấp độ này thì
 *KCSC tham gia sơ khảo cuộc thi Sinh viên với An toàn thông tin ASEAN 2020*
 
 ## THÀNH TÍCH  
+
+* Giải nhì và giải ba chung kết HCMUS-CTF 2021
 
 **Theo dõi và liên hệ với chúng tôi tại:**  
 
