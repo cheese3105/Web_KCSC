@@ -5,7 +5,7 @@
 
 Là câu lạc bộ trực thuộc Học viện Kỹ thuật Mật mã, được thành lập ngày 08/08/2019.  
 
-Với mục tiêu ***`"Make KMA greater"`***, CLB là nơi định hướng và giúp đỡ các bạn sinh viên có niềm đam mê, yêu thích với An toàn thông tin.  
+Với mục tiêu ***`"Make KMA greater"`***, CLB là nơi định hướng và giúp đỡ các bạn sinh viên có niềm đam mê, yêu thích với An toàn thông tin.   
 
 Tìm hiểu An toàn thông tin không còn khó khi đã có KCSC.  
 
@@ -17,7 +17,15 @@ Với sự hỗ trợ của:
 
 * Các thành viên trong [Ban truyền thông](https://kcsc-club.github.io/team-members/#media) của CLB  
 
-KCSC mong muốn là môi trường học tập, vui chơi tốt nhất dành cho các bạn sinh viên của Học viện  
+KCSC luôn nỗ lực không ngừng với mong muốn:  
+
+* Lan toả được niềm đam mê với An toàn thông tin nói chung và CTF nói riêng đến nhiều bạn sinh viên trong và ngoài trường hơn.
+
+* Tạo một sân chơi, môi trường An toàn thông tin không chỉ cho những bạn KMA mà còn là với tất cả các bạn sinh viên có đam mê.
+
+* Cố gắng trở thành đội chơi có vị trí cao trong bảng xếp hạng CTFtime.
+
+* Trở thành cầu nối quan trọng trong việc xây dựng đội tuyển thi Sinh Viên An Toàn Thông Tin ASEAN của trường KMA.
 
 
 > ## ***"KCSC giúp bạn đến gần hơn với CTF"***  
@@ -28,7 +36,7 @@ Thông qua các hoạt động chính của CLB:
 
 * Tổ chức các [buổi giao lưu](#các-buổi-giao-lưu-do-kcsc-tổ-chức) với các bạn sinh viên của Học viện  
 
-* [Tổ chức các cuộc thi CTF](#kcscctf)  
+* [Tổ chức các cuộc thi CTF](#kcsc-ctf)  
 
 * [Tham gia các cuộc thi CTF](#tham-gia-các-cuộc-thi-ctf) trong và ngoài nước  
 
@@ -90,11 +98,13 @@ Ngoài ra thì bạn còn có nhiệm vụ kèm cặp các thành viên cấp đ
 ![122217012_350897562911872_1170120319352173393_n](https://user-images.githubusercontent.com/74854445/125600469-06baa3fe-f470-4621-847d-b2381d43e097.jpg)
 *Ngày hội An toàn thông tin 2020*
 
-## KCSCCTF  
+## KCSC-CTF  
 
 ![IMG_2375](https://user-images.githubusercontent.com/74854445/125601188-aa300c42-1df3-45bd-bdb5-f0b5f924a283.jpg)
-*KCSCCTF 2021*
+*KCSC-CTF 2021*
 
+![IMG_2330](https://user-images.githubusercontent.com/74854445/126890315-0769e71f-c6a6-40e7-8400-2634c95631d6.jpg)
+*Các bạn sinh viên khóa AT16 của KMA tham gia KCSC-CTF 2021*
 ## THAM GIA CÁC CUỘC THI CTF  
 
 ![122892861_355263882475240_1919880318175551547_n](https://user-images.githubusercontent.com/74854445/125599861-4cc57197-a648-4d88-9953-c2ca4853d222.jpg)
