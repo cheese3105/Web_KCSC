@@ -79,7 +79,7 @@ Sau khi hoàn thành mục tiêu ở cấp độ 1 và thông qua bài kiểm tr
 
 Lúc này, các bạn sẽ được kèm cặp bởi một thành viên cấp 3, đồng thời phải kèm cặp cho các bạn thành viên cấp độ 1. Đây là cấp độ mà thành viên không những được rèn luyện về kỹ năng, kiến thức mà còn được rèn luyện tinh thần trách nhiệm.
 
-> *"Học được là một chuyện, hướng dẫn được cho người khác hiểu lại là một chuyện khác"* - ***ABC*** *(sinh viên khóa XYZ)*  
+> *"Học được là một chuyện, hướng dẫn được cho người khác hiểu lại là một chuyện khác. Không phải mình cứ thấy challenge nào hay là đưa các bạn mới làm mà phải biết chọn lựa sao cho phù hợp với kiến thức của từng bạn. Cần phải có kế hoạch hướng dẫn rõ ràng, mỗi task được giao cần phải có cái mới có chủ đề, mục đích rõ ràng để các bạn mới có thể bám theo lộ trình mà không bị hổng các kiến thức cơ bản.  "* - ***Hồ Đắc Quyết Chí Thành*** *(sinh viên khóa AT14)*  
 
 ### **Thành viên cấp độ 3**
 
@@ -91,7 +91,7 @@ Sau khi hoàn thành mục tiêu ở cấp độ 2 và thông qua bài kiểm tr
 
 Ngoài ra thì bạn còn có nhiệm vụ kèm cặp các thành viên cấp độ 2, viết đề kiểm tra hàng tháng cho các thành viên cấp độ 1. Đây là lúc mà các bạn sẽ phải rèn luyện sự tự giác, ý thức của bản thân vì lúc này sẽ không còn người hướng dẫn nữa. Kiến thức ở cấp độ này sẽ phải do chính các bạn tự tìm tòi, tìm hiểu, nghiên cứu thông qua việc tham gia các giải CTF nên tinh thần tự giác học hỏi ở cấp độ này là vô cùng quan trọng.  
 
->### ""  
+> *"Việc nghiên cứu, thuyết trình vừa có cái khó vừa có cái hay. Cái khó là phải học cách sắp xếp công việc, thời gian để có thể vừa học, vừa làm và vừa nghiên cứu tìm hiểu cái mới. Nhưng bù lại thì nó có thể giúp mình chủ động tìm học hỏi những cái mới, tìm hiểu được những kỹ thuật mới nữa mà mình chưa biết, tiếp tục phát triển bản thân chứ không  không bị chững lại, còn rèn luyện được một kỹ năng mềm quan trọng là khả năng thuyết trình trước đám đông nữa"* - ***Phạm Ngọc Nhiên*** *(sinh viên khóa AT15)* 
  
 ## CÁC BUỔI GIAO LƯU DO KCSC TỔ CHỨC  
 
@@ -113,6 +113,10 @@ Ngoài ra thì bạn còn có nhiệm vụ kèm cặp các thành viên cấp đ
 ## THÀNH TÍCH  
 
 * Giải nhì và giải ba chung kết HCMUS-CTF 2021
+
+* Tham gia chung kết DuyTanCTF
+
+* Tham dự cuộc thi sinh viên an toàn thông tin quốc gia
 
 **Theo dõi và liên hệ với chúng tôi tại:**  
 
