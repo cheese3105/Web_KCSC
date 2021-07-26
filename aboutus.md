@@ -28,7 +28,7 @@ KCSC luôn nỗ lực không ngừng với mong muốn:
 * Trở thành cầu nối quan trọng trong việc xây dựng đội tuyển thi Sinh Viên An Toàn Thông Tin ASEAN của trường KMA.
 
 
-> ## ***"KCSC giúp bạn đến gần hơn với CTF"***  
+### ***`"KCSC giúp bạn đến gần hơn với CTF"`***  
 
 Thông qua các hoạt động chính của CLB: 
 
