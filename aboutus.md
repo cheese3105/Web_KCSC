@@ -111,7 +111,7 @@ Ngoài ra thì bạn còn có nhiệm vụ kèm cặp các thành viên cấp đ
 ![122892861_355263882475240_1919880318175551547_n](https://user-images.githubusercontent.com/74854445/125599861-4cc57197-a648-4d88-9953-c2ca4853d222.jpg)
 *KCSC tham gia sơ khảo cuộc thi Sinh viên với An toàn thông tin ASEAN 2020*
 
-![4646464](https://user-images.githubusercontent.com/74854445/146711393-61ccbcd9-e923-4a41-83eb-c205cb0ae21f.png)
+![4646464](https://user-images.githubusercontent.com/74854445/146711393-61ccbcd9-e923-4a41-83eb-c205cb0ae21f.png)  
 *KCSC tham gia chung khảo cuộc thi Sinh viên với An toàn thông tin ASEAN 2021*
 
 
