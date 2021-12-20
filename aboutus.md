@@ -105,18 +105,28 @@ Ngoài ra thì bạn còn có nhiệm vụ kèm cặp các thành viên cấp đ
 
 ![IMG_2330](https://user-images.githubusercontent.com/74854445/126890315-0769e71f-c6a6-40e7-8400-2634c95631d6.jpg)
 *Các bạn sinh viên khóa AT16 của KMA tham gia KCSC-CTF 2021*
+
 ## THAM GIA CÁC CUỘC THI CTF  
 
 ![122892861_355263882475240_1919880318175551547_n](https://user-images.githubusercontent.com/74854445/125599861-4cc57197-a648-4d88-9953-c2ca4853d222.jpg)
 *KCSC tham gia sơ khảo cuộc thi Sinh viên với An toàn thông tin ASEAN 2020*
 
+![4646464](https://user-images.githubusercontent.com/74854445/146711393-61ccbcd9-e923-4a41-83eb-c205cb0ae21f.png)
+*KCSC tham gia chung khảo cuộc thi Sinh viên với An toàn thông tin ASEAN 2021*
+
+
 ## THÀNH TÍCH  
 
 * Giải nhì và giải ba chung kết HCMUS-CTF 2021
 
-* Tham gia chung kết DuyTanCTF
+* Hồ Huỳnh Thanh Uyên - thành viên CLB, xuất sắc dành được 1 vé tham dự vòng chung kết Asian Cyber Security Challenge 2021
 
-* Tham dự cuộc thi sinh viên an toàn thông tin quốc gia
+* 2 giải nhất, 1 giải nhì, 2 giải khuyến khích vòng sơ khảo Sinh viên với An toàn thông tin ASEAN 2021  
+
+* 1 giải nhì và 2 giải khuyến khích vòng chung khảo Sinh viên với An toàn thông tin ASEAN 2021 
+
+* Top 5 WANNAGAME CHAMPIONSHIP 2021
+
 
 **Theo dõi và liên hệ với chúng tôi tại:**  
 
