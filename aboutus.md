@@ -119,7 +119,7 @@ Ngoài ra thì bạn còn có nhiệm vụ kèm cặp các thành viên cấp đ
 
 * Giải nhì và giải ba chung kết HCMUS-CTF 2021
 
-* Hồ Huỳnh Thanh Uyên - thành viên CLB, xuất sắc dành được 1 vé tham dự vòng chung kết Asian Cyber Security Challenge 2021
+* Hồ Huỳnh Thanh Uyên - thành viên CLB, xuất sắc dành được 1 vé tham dự International Cybersecurity Challenge (ICC) 2022
 
 * 2 giải nhất, 1 giải nhì, 2 giải khuyến khích vòng sơ khảo Sinh viên với An toàn thông tin ASEAN 2021  
 
