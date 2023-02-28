@@ -40,63 +40,12 @@ Thông qua các hoạt động chính của CLB:
 
 * [Tham gia các cuộc thi CTF](#tham-gia-các-cuộc-thi-ctf) trong và ngoài nước  
 
-## CÁCH THỨC TUYỂN CHỌN THÀNH VIÊN
-
-Mọi sinh viên đang theo học tại Học viện Kỹ thuật Mật mã đều có thể đăng ký tham gia các buổi tuyển chọn do CLB tổ chức hằng năm  
-
-Với hình thức gồm: 
-* 1 bài kiểm tra kỹ năng lập trình
- 
-* 1 bài kiểm tra kỹ năng + kiến thức của mảng CTF ứng tuyển
-
-* 1 buổi phỏng vấn cùng với các thành viên trong CLB
-
-Mọi thông tin chi tiết về buổi ứng tuyển sẽ được đăng tải tại [Facebook](https://www.facebook.com/kmase.club) của CLB
-
-## MÔ HÌNH ĐÀO TẠO THÀNH VIÊN  
-
-Tất cả các thành viên trong CLB đều được phân cấp bậc rõ ràng, trong đó có 3 cấp độ chính:  
-
-### **Thành viên cấp độ 1**  
-
-Đây là cấp độ dành cho các bạn đã vượt qua bài bài kiểm tra đầu vào của CLB và đang trong giai đoạn luyện tập cũng như nhận được sự hỗ trợ, kèm cặp từ mentor (người hướng dẫn) là một thành viên cấp độ 2.  
-
-**Mục tiêu:**
-* Hoàn thành các task (bài tập) được giao mức độ cơ bản khoảng 75%, nhằm đào tạo cho các bạn các kiến thức cơ bản của mảng CTF mà các bạn đang theo
-* Tham gia các giải CTF trên ctftime với mức độ giải dành cho highschool 
-
-Các bạn thành viên ở cấp độ này sẽ luôn được quan tâm, theo dõi bởi tất cả các thành viên trong CLB với mong muốn giúp các bạn có một nền tảng kiến thức vững chắc nhất.
-
-> *"Có người hướng dẫn kèm cặp thì quá trình học đỡ vất vả hơn rất nhiều. Không còn phải mông lung nên bắt đầu từ cái gì trước, được giải thích cặn kẽ các vấn đề mình còn lấn cấn. Được giao task (bài tập) rõ ràng đi kèm với deadline (thời hạn nộp bài), dựa vào đó thì mình sẽ tự giác cao hơn tránh để bản thân lười biếng"* - ***Nguyễn Khánh Ly*** *(sinh viên khóa AT17)*
-
-### **Thành viên cấp độ 2**  
-
-Sau khi hoàn thành mục tiêu ở cấp độ 1 và thông qua bài kiểm tra cấp độ thì các bạn sẽ được thăng lên cấp độ 2.  
-
-**Mục tiêu:**
-* Hoàn thành các task được giao với mức độ cơ bản nằm ở 25% còn lại
-* Bắt đầu tham gia các giải CTF trên ctftime với mức độ giải từ medium trở lên 
-
-Lúc này, các bạn sẽ được kèm cặp bởi một thành viên cấp 3, đồng thời phải kèm cặp cho các bạn thành viên cấp độ 1. Đây là cấp độ mà thành viên không những được rèn luyện về kỹ năng, kiến thức mà còn được rèn luyện tinh thần trách nhiệm.
-
-> *"Học được là một chuyện, hướng dẫn được cho người khác hiểu lại là một chuyện khác. Không phải mình cứ thấy challenge nào hay là đưa các bạn mới làm mà phải biết chọn lựa sao cho phù hợp với kiến thức của từng bạn. Cần phải có kế hoạch hướng dẫn rõ ràng, mỗi task được giao cần phải có cái mới có chủ đề, mục đích rõ ràng để các bạn mới có thể bám theo lộ trình mà không bị hổng các kiến thức cơ bản.  "* - ***Hồ Đắc Quyết Chí Thành*** *(sinh viên khóa AT14)*  
-
-### **Thành viên cấp độ 3**
-
-Sau khi hoàn thành mục tiêu ở cấp độ 2 và thông qua bài kiểm tra cấp độ thì các bạn sẽ được thăng lên cấp độ 3.  
-
-**Mục tiêu:**
-* Tự nghiên cứu
-* Thuyết trình các nghiên cứu cá nhân của mình trước các thành viên của CLB mỗi 20 ngày
-
-Ngoài ra thì bạn còn có nhiệm vụ kèm cặp các thành viên cấp độ 2, viết đề kiểm tra hàng tháng cho các thành viên cấp độ 1. Đây là lúc mà các bạn sẽ phải rèn luyện sự tự giác, ý thức của bản thân vì lúc này sẽ không còn người hướng dẫn nữa. Kiến thức ở cấp độ này sẽ phải do chính các bạn tự tìm tòi, tìm hiểu, nghiên cứu thông qua việc tham gia các giải CTF nên tinh thần tự giác học hỏi ở cấp độ này là vô cùng quan trọng.  
-
-> *"Việc nghiên cứu, thuyết trình vừa có cái khó vừa có cái hay. Cái khó là phải học cách sắp xếp công việc, thời gian để có thể vừa học, vừa làm và vừa nghiên cứu tìm hiểu cái mới. Nhưng bù lại thì nó có thể giúp mình chủ động tìm học hỏi những cái mới, tìm hiểu được những kỹ thuật mới nữa mà mình chưa biết, tiếp tục phát triển bản thân chứ không  không bị chững lại, còn rèn luyện được một kỹ năng mềm quan trọng là khả năng thuyết trình trước đám đông nữa"* - ***Phạm Ngọc Nhiên*** *(sinh viên khóa AT15)* 
  
 ## CÁC BUỔI GIAO LƯU DO KCSC TỔ CHỨC  
 
 ![122217012_350897562911872_1170120319352173393_n](https://user-images.githubusercontent.com/74854445/125600469-06baa3fe-f470-4621-847d-b2381d43e097.jpg)
 *Ngày hội An toàn thông tin 2020*
+
 
 ## KCSC-CTF  
 
@@ -113,6 +62,9 @@ Ngoài ra thì bạn còn có nhiệm vụ kèm cặp các thành viên cấp đ
 
 ![4646464](https://user-images.githubusercontent.com/74854445/146711393-61ccbcd9-e923-4a41-83eb-c205cb0ae21f.png)  
 *KCSC tham gia chung khảo cuộc thi Sinh viên với An toàn thông tin ASEAN 2021*
+
+![z3858703024181_c800aa6e6d836d6246d4853c18db33c2](https://user-images.githubusercontent.com/74854445/221739021-0496f2b9-c1e0-4aea-a0ba-5c38499a84a1.jpg)
+*KCSC tham gia chung khảo cuộc thi Sinh viên với An toàn thông tin ASEAN 2022*
 
 
 ## THÀNH TÍCH  
