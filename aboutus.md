@@ -74,3 +74,13 @@ Thông qua các hoạt động chính của CLB:
 ![Seccon](https://user-images.githubusercontent.com/74854445/232327988-70f4a9e1-4111-4d61-b0e7-d4699cbc2e71.jpg)
 *SECCON CTF 2022*
 
+## THÀNH TÍCH NỔI BẬT
+- Giải Nhất cuộc thi ISITDTU CTF 2022
+- Giải Nhất CYBER SEAGAME 2022
+- 1 giải Nhì, 1 giải Khuyến Khích vòng Chung khảo cuộc thi Sinh viên với An toàn thông tin ASEAN 2022
+- 1 giải Nhất, 1 giải Nhì, 4 giải Ba vòng Sơ khảo cuộc thi Sinh viên với An toàn thông tin ASEAN 2022  
+[Xem thêm]
+
+## Theo dõi và liên hệ với chúng tôi tại:
+Facebook: https://www.facebook.com/kmase.club  
+Gmail: kmase.club@gmail.com
