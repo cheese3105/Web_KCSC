@@ -46,6 +46,8 @@ Thông qua các hoạt động chính của CLB:
 ![122217012_350897562911872_1170120319352173393_n](https://user-images.githubusercontent.com/74854445/125600469-06baa3fe-f470-4621-847d-b2381d43e097.jpg)
 *Ngày hội An toàn thông tin 2020*
 
+![_MG_6644](https://user-images.githubusercontent.com/74854445/232328728-aaa85dea-c1ef-4973-a7b4-90451dda94dc.JPG)
+*WORKSHOP CTF101 2022*
 
 ## KCSC-CTF  
 
@@ -58,30 +60,17 @@ Thông qua các hoạt động chính của CLB:
 ## THAM GIA CÁC CUỘC THI CTF  
 
 ![122892861_355263882475240_1919880318175551547_n](https://user-images.githubusercontent.com/74854445/125599861-4cc57197-a648-4d88-9953-c2ca4853d222.jpg)
-*KCSC tham gia sơ khảo cuộc thi Sinh viên với An toàn thông tin ASEAN 2020*
+*Sơ khảo cuộc thi Sinh viên với An toàn thông tin ASEAN 2020*
 
 ![4646464](https://user-images.githubusercontent.com/74854445/146711393-61ccbcd9-e923-4a41-83eb-c205cb0ae21f.png)  
-*KCSC tham gia chung khảo cuộc thi Sinh viên với An toàn thông tin ASEAN 2021*
+*Chung khảo cuộc thi Sinh viên với An toàn thông tin ASEAN 2021*
 
 ![z3858703024181_c800aa6e6d836d6246d4853c18db33c2](https://user-images.githubusercontent.com/74854445/221739021-0496f2b9-c1e0-4aea-a0ba-5c38499a84a1.jpg)
-*KCSC tham gia chung khảo cuộc thi Sinh viên với An toàn thông tin ASEAN 2022*
+*Chung khảo cuộc thi Sinh viên với An toàn thông tin ASEAN 2022*
 
+![photo_3_2022-11-10_17-41-06](https://user-images.githubusercontent.com/74854445/232327877-cb98778c-6164-46f0-b94f-bf9f3315d6a1.jpg)
+*CyberSeagame 2022*
 
-## THÀNH TÍCH  
+![Seccon](https://user-images.githubusercontent.com/74854445/232327988-70f4a9e1-4111-4d61-b0e7-d4699cbc2e71.jpg)
+*SECCON CTF 2022*
 
-* Giải Nhì và giải Ba chung kết HCMUS-CTF 2021
-
-* Hồ Huỳnh Thanh Uyên - thành viên CLB, xuất sắc dành được 1 vé tham dự International Cybersecurity Challenge (ICC) 2022
-
-* 2 giải Nhất, 1 giải Nhì, 2 giải Khuyến Khích vòng Sơ khảo Sinh viên với An toàn thông tin ASEAN 2021  
-
-* 1 giải Nhì và 2 giải Khuyến Khích vòng Chung khảo Sinh viên với An toàn thông tin ASEAN 2021 
-
-* Top 5 WANNAGAME CHAMPIONSHIP 2021
-
-
-**Theo dõi và liên hệ với chúng tôi tại:**  
-
-**Facebook:** https://www.facebook.com/kmase.club  
-
-**Gmail:** kmase.club@gmail.com
